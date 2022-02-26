@@ -3,3 +3,5 @@ https://mil.ru
 https://ach.gov.ru
 https://epp.genproc.gov.ru
 https://kremlin.ru
+https://109.207.1.118
+https://109.207.1.97
